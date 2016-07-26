@@ -1,0 +1,25 @@
+AG {Autor = "Autor8", Titulo = "Titulo1", Anio = "Anio2", Id = "0", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor2", Anio = "Anio2", Id = "1", Tipo = "Manual", Titulo = "Titulo5"}
+AG {Autor = "Autor1", Anio = "Anio3", Id = "2", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor2", Anio = "Anio2", Editor = "Editor8", Id = "3", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor2", Titulo = "Titulo8", Anio = "Anio2", Id = "4", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor0", Anio = "Anio6", Id = "5", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor0", Anio = "Anio6", Id = "6", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor3", Anio = "Anio5", Editor = "Editor7", Id = "7", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo1"}
+AG {Autor = "Autor8", Titulo = "Titulo9", Anio = "Anio3", Id = "8", Tipo = "Articulo", Conferencia = "Conferencia9"}
+AG {Autor = "Autor5", Titulo = "Titulo7", Anio = "Anio2", Id = "9", Tipo = "Articulo", Conferencia = "Conferencia7"}
+AG {Autor = "Autor1", Anio = "Anio1", Editor = "Editor2", Id = "10", Institucion = "Institucion5", Tipo = "Libro", Titulo = "Titulo4"}
+AG {Autor = "Autor0", Titulo = "Titulo3", Anio = "Anio2", Id = "11", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AC {Autor = "Autor7"}{Anio = "Anio0"}
+AC {Anio = "Anio5"}{Anio = "Anio6"}
+AG {Autor = "Autor2", Titulo = "Titulo1", Anio = "Anio0", Id = "12", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor0", Anio = "Anio5", Id = "13", Tipo = "Manual", Titulo = "Titulo1"}
+AG {Autor = "Autor8", Anio = "Anio5", Id = "14", Tipo = "Manual", Titulo = "Titulo9"}
+CO {Anio = "Anio7"}
+AC {Autor = "Autor5"}{Anio = "Anio8"}
+CO {Autor = "Autor1"}
+CO {Autor = "Autor1", Anio = "Anio8"}
+AG {Autor = "Autor3", Anio = "Anio8", Id = "15", Tipo = "Manual", Titulo = "Titulo1"}
+AC {Anio = "Anio3"}{Institucion = "Institucion4", Autor = "Autor4"}
+AG {Autor = "Autor8", Titulo = "Titulo9", Anio = "Anio4", Id = "16", Tipo = "Articulo", Conferencia = "Conferencia1"}
+AC {Anio = "Anio8", Tipo = "Libro"}{Anio = "Anio8"}

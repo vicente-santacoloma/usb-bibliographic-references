@@ -1,0 +1,26 @@
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+0
+1
+OK
+OK
+OK
+
+1
+{Anio = "Anio3", Autor = "Autor1", Id = "2", Tipo = "Manual", Titulo = "Titulo9"}
+{Anio = "Anio1", Autor = "Autor1", Editor = "Editor2", Id = "10", Institucion = "Institucion5", Tipo = "Libro", Titulo = "Titulo4"}
+
+OK
+2
+OK
+0

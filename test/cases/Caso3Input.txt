@@ -1,0 +1,800 @@
+AG {Autor = "Autor2", Titulo = "Titulo3", Anio = "Anio5", Id = "0", Tipo = "Articulo", Conferencia = "Conferencia1"}
+AG {Autor = "Autor8", Anio = "Anio0", Id = "1", Tipo = "Manual", Titulo = "Titulo8"}
+AG {Autor = "Autor9", Titulo = "Titulo6", Anio = "Anio6", Id = "2", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor6", Anio = "Anio9", Id = "3", Tipo = "Manual", Titulo = "Titulo5"}
+AG {Autor = "Autor3", Anio = "Anio6", Id = "4", Tipo = "Manual", Titulo = "Titulo8"}
+AG {Autor = "Autor1", Titulo = "Titulo5", Anio = "Anio5", Id = "5", Tipo = "Articulo", Conferencia = "Conferencia1"}
+AG {Autor = "Autor4", Anio = "Anio0", Editor = "Editor8", Id = "6", Institucion = "Institucion5", Tipo = "Libro", Titulo = "Titulo2"}
+AG {Autor = "Autor4", Anio = "Anio5", Editor = "Editor1", Id = "7", Institucion = "Institucion3", Tipo = "Libro", Titulo = "Titulo1"}
+AG {Autor = "Autor9", Titulo = "Titulo0", Anio = "Anio4", Id = "8", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AG {Autor = "Autor7", Anio = "Anio4", Id = "9", Tipo = "Manual", Titulo = "Titulo1"}
+AG {Autor = "Autor2", Anio = "Anio7", Editor = "Editor7", Id = "10", Institucion = "Institucion8", Tipo = "Libro", Titulo = "Titulo9"}
+AG {Autor = "Autor7", Anio = "Anio1", Editor = "Editor1", Id = "11", Institucion = "Institucion6", Tipo = "Libro", Titulo = "Titulo5"}
+AG {Autor = "Autor9", Anio = "Anio6", Editor = "Editor9", Id = "12", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo9"}
+AG {Autor = "Autor3", Titulo = "Titulo5", Anio = "Anio6", Id = "13", Tipo = "Articulo", Conferencia = "Conferencia1"}
+AG {Autor = "Autor5", Titulo = "Titulo8", Anio = "Anio7", Id = "14", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor7", Titulo = "Titulo1", Anio = "Anio4", Id = "15", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AG {Autor = "Autor4", Titulo = "Titulo8", Anio = "Anio4", Id = "16", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AG {Autor = "Autor9", Titulo = "Titulo5", Anio = "Anio6", Id = "17", Tipo = "Articulo", Conferencia = "Conferencia2"}
+AG {Autor = "Autor8", Anio = "Anio7", Id = "18", Tipo = "Manual", Titulo = "Titulo1"}
+AG {Autor = "Autor9", Anio = "Anio3", Editor = "Editor7", Id = "19", Institucion = "Institucion8", Tipo = "Libro", Titulo = "Titulo4"}
+AG {Autor = "Autor1", Titulo = "Titulo9", Anio = "Anio8", Id = "20", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AG {Autor = "Autor7", Anio = "Anio1", Editor = "Editor2", Id = "21", Institucion = "Institucion3", Tipo = "Libro", Titulo = "Titulo5"}
+AG {Autor = "Autor4", Anio = "Anio3", Id = "22", Tipo = "Manual", Titulo = "Titulo1"}
+AG {Autor = "Autor5", Anio = "Anio6", Editor = "Editor9", Id = "23", Institucion = "Institucion8", Tipo = "Libro", Titulo = "Titulo2"}
+AG {Autor = "Autor5", Titulo = "Titulo8", Anio = "Anio5", Id = "24", Tipo = "Articulo", Conferencia = "Conferencia1"}
+AG {Autor = "Autor3", Anio = "Anio0", Id = "25", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor8", Titulo = "Titulo5", Anio = "Anio1", Id = "26", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor3", Titulo = "Titulo9", Anio = "Anio9", Id = "27", Tipo = "Articulo", Conferencia = "Conferencia5"}
+AG {Autor = "Autor2", Titulo = "Titulo0", Anio = "Anio8", Id = "28", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AG {Autor = "Autor6", Anio = "Anio5", Editor = "Editor6", Id = "29", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo8"}
+AG {Autor = "Autor1", Titulo = "Titulo5", Anio = "Anio7", Id = "30", Tipo = "Articulo", Conferencia = "Conferencia5"}
+AG {Autor = "Autor9", Titulo = "Titulo4", Anio = "Anio9", Id = "31", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor1", Anio = "Anio2", Editor = "Editor4", Id = "32", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo8"}
+AG {Autor = "Autor9", Anio = "Anio4", Editor = "Editor4", Id = "33", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo0"}
+AG {Autor = "Autor0", Titulo = "Titulo5", Anio = "Anio3", Id = "34", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor3", Anio = "Anio9", Id = "35", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor5", Anio = "Anio5", Editor = "Editor8", Id = "36", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo8"}
+AG {Autor = "Autor2", Titulo = "Titulo8", Anio = "Anio5", Id = "37", Tipo = "Articulo", Conferencia = "Conferencia1"}
+AG {Autor = "Autor4", Titulo = "Titulo1", Anio = "Anio2", Id = "38", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor0", Anio = "Anio4", Id = "39", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor1", Anio = "Anio2", Id = "40", Tipo = "Manual", Titulo = "Titulo1"}
+AG {Autor = "Autor4", Anio = "Anio9", Id = "41", Tipo = "Manual", Titulo = "Titulo1"}
+AG {Autor = "Autor2", Anio = "Anio4", Id = "42", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor8", Anio = "Anio1", Editor = "Editor9", Id = "43", Institucion = "Institucion7", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor7", Anio = "Anio8", Id = "44", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor1", Titulo = "Titulo6", Anio = "Anio1", Id = "45", Tipo = "Articulo", Conferencia = "Conferencia2"}
+AG {Autor = "Autor4", Anio = "Anio3", Editor = "Editor0", Id = "46", Institucion = "Institucion4", Tipo = "Libro", Titulo = "Titulo6"}
+AG {Autor = "Autor5", Anio = "Anio9", Id = "47", Tipo = "Manual", Titulo = "Titulo6"}
+AG {Autor = "Autor5", Anio = "Anio7", Editor = "Editor4", Id = "48", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo1"}
+AG {Autor = "Autor3", Anio = "Anio6", Editor = "Editor6", Id = "49", Institucion = "Institucion7", Tipo = "Libro", Titulo = "Titulo0"}
+AG {Autor = "Autor5", Titulo = "Titulo3", Anio = "Anio5", Id = "50", Tipo = "Articulo", Conferencia = "Conferencia5"}
+AG {Autor = "Autor1", Titulo = "Titulo5", Anio = "Anio2", Id = "51", Tipo = "Articulo", Conferencia = "Conferencia7"}
+AG {Autor = "Autor4", Titulo = "Titulo6", Anio = "Anio6", Id = "52", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor7", Anio = "Anio3", Editor = "Editor4", Id = "53", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo4"}
+AG {Autor = "Autor9", Anio = "Anio1", Editor = "Editor2", Id = "54", Institucion = "Institucion8", Tipo = "Libro", Titulo = "Titulo4"}
+AG {Autor = "Autor5", Titulo = "Titulo9", Anio = "Anio1", Id = "55", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor6", Anio = "Anio0", Editor = "Editor1", Id = "56", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor8", Anio = "Anio1", Editor = "Editor9", Id = "57", Institucion = "Institucion3", Tipo = "Libro", Titulo = "Titulo0"}
+AG {Autor = "Autor0", Anio = "Anio6", Id = "58", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor7", Anio = "Anio7", Id = "59", Tipo = "Manual", Titulo = "Titulo5"}
+AG {Autor = "Autor5", Anio = "Anio8", Id = "60", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor9", Titulo = "Titulo9", Anio = "Anio4", Id = "61", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AG {Autor = "Autor2", Titulo = "Titulo9", Anio = "Anio6", Id = "62", Tipo = "Articulo", Conferencia = "Conferencia7"}
+AG {Autor = "Autor9", Titulo = "Titulo7", Anio = "Anio8", Id = "63", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor6", Anio = "Anio9", Id = "64", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor6", Anio = "Anio6", Id = "65", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor3", Titulo = "Titulo7", Anio = "Anio4", Id = "66", Tipo = "Articulo", Conferencia = "Conferencia2"}
+AG {Autor = "Autor5", Titulo = "Titulo2", Anio = "Anio2", Id = "67", Tipo = "Articulo", Conferencia = "Conferencia1"}
+AG {Autor = "Autor1", Anio = "Anio9", Editor = "Editor0", Id = "68", Institucion = "Institucion8", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor6", Titulo = "Titulo5", Anio = "Anio6", Id = "69", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AG {Autor = "Autor8", Titulo = "Titulo8", Anio = "Anio0", Id = "70", Tipo = "Articulo", Conferencia = "Conferencia9"}
+AG {Autor = "Autor9", Anio = "Anio1", Id = "71", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor1", Titulo = "Titulo1", Anio = "Anio5", Id = "72", Tipo = "Articulo", Conferencia = "Conferencia2"}
+AG {Autor = "Autor4", Titulo = "Titulo1", Anio = "Anio5", Id = "73", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor3", Anio = "Anio1", Editor = "Editor8", Id = "74", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo2"}
+AG {Autor = "Autor7", Anio = "Anio8", Editor = "Editor1", Id = "75", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo6"}
+AG {Autor = "Autor0", Titulo = "Titulo3", Anio = "Anio7", Id = "76", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AG {Autor = "Autor5", Anio = "Anio7", Editor = "Editor7", Id = "77", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo1"}
+AG {Autor = "Autor1", Anio = "Anio5", Id = "78", Tipo = "Manual", Titulo = "Titulo1"}
+AG {Autor = "Autor7", Anio = "Anio6", Editor = "Editor6", Id = "79", Institucion = "Institucion7", Tipo = "Libro", Titulo = "Titulo0"}
+AG {Autor = "Autor0", Anio = "Anio9", Id = "80", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor2", Anio = "Anio7", Id = "81", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor4", Anio = "Anio6", Editor = "Editor8", Id = "82", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo3"}
+AG {Autor = "Autor1", Titulo = "Titulo1", Anio = "Anio9", Id = "83", Tipo = "Articulo", Conferencia = "Conferencia9"}
+AG {Autor = "Autor6", Anio = "Anio4", Editor = "Editor7", Id = "84", Institucion = "Institucion5", Tipo = "Libro", Titulo = "Titulo4"}
+AG {Autor = "Autor0", Titulo = "Titulo2", Anio = "Anio1", Id = "85", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor1", Titulo = "Titulo8", Anio = "Anio3", Id = "86", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor3", Anio = "Anio3", Editor = "Editor7", Id = "87", Institucion = "Institucion4", Tipo = "Libro", Titulo = "Titulo0"}
+AG {Autor = "Autor1", Anio = "Anio1", Editor = "Editor6", Id = "88", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo8"}
+AG {Autor = "Autor4", Anio = "Anio1", Id = "89", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor8", Titulo = "Titulo9", Anio = "Anio4", Id = "90", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor6", Titulo = "Titulo1", Anio = "Anio7", Id = "91", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor7", Titulo = "Titulo1", Anio = "Anio4", Id = "92", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AG {Autor = "Autor4", Anio = "Anio7", Id = "93", Tipo = "Manual", Titulo = "Titulo5"}
+AG {Autor = "Autor3", Titulo = "Titulo4", Anio = "Anio3", Id = "94", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor4", Anio = "Anio5", Editor = "Editor1", Id = "95", Institucion = "Institucion8", Tipo = "Libro", Titulo = "Titulo9"}
+AG {Autor = "Autor2", Anio = "Anio6", Id = "96", Tipo = "Manual", Titulo = "Titulo0"}
+AG {Autor = "Autor9", Titulo = "Titulo5", Anio = "Anio7", Id = "97", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor6", Anio = "Anio7", Editor = "Editor9", Id = "98", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo5"}
+AG {Autor = "Autor0", Titulo = "Titulo8", Anio = "Anio1", Id = "99", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor5", Titulo = "Titulo2", Anio = "Anio3", Id = "100", Tipo = "Articulo", Conferencia = "Conferencia5"}
+AG {Autor = "Autor2", Titulo = "Titulo4", Anio = "Anio9", Id = "101", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AG {Autor = "Autor0", Anio = "Anio8", Editor = "Editor1", Id = "102", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo9"}
+AG {Autor = "Autor7", Titulo = "Titulo3", Anio = "Anio2", Id = "103", Tipo = "Articulo", Conferencia = "Conferencia5"}
+AG {Autor = "Autor6", Anio = "Anio4", Editor = "Editor4", Id = "104", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo6"}
+AG {Autor = "Autor5", Anio = "Anio0", Editor = "Editor4", Id = "105", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo8"}
+AG {Autor = "Autor5", Anio = "Anio6", Id = "106", Tipo = "Manual", Titulo = "Titulo6"}
+AG {Autor = "Autor9", Titulo = "Titulo6", Anio = "Anio6", Id = "107", Tipo = "Articulo", Conferencia = "Conferencia7"}
+AG {Autor = "Autor6", Anio = "Anio7", Id = "108", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor5", Anio = "Anio3", Id = "109", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor8", Titulo = "Titulo5", Anio = "Anio8", Id = "110", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor0", Anio = "Anio8", Id = "111", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor9", Titulo = "Titulo5", Anio = "Anio2", Id = "112", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor3", Titulo = "Titulo9", Anio = "Anio5", Id = "113", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor2", Titulo = "Titulo8", Anio = "Anio3", Id = "114", Tipo = "Articulo", Conferencia = "Conferencia2"}
+AG {Autor = "Autor2", Titulo = "Titulo3", Anio = "Anio0", Id = "115", Tipo = "Articulo", Conferencia = "Conferencia7"}
+AG {Autor = "Autor7", Anio = "Anio5", Id = "116", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor0", Anio = "Anio2", Editor = "Editor8", Id = "117", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo9"}
+AG {Autor = "Autor0", Titulo = "Titulo1", Anio = "Anio9", Id = "118", Tipo = "Articulo", Conferencia = "Conferencia1"}
+AG {Autor = "Autor1", Anio = "Anio9", Id = "119", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor1", Anio = "Anio5", Editor = "Editor9", Id = "120", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo6"}
+AG {Autor = "Autor3", Anio = "Anio1", Id = "121", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor1", Anio = "Anio6", Editor = "Editor8", Id = "122", Institucion = "Institucion7", Tipo = "Libro", Titulo = "Titulo0"}
+AG {Autor = "Autor3", Anio = "Anio5", Editor = "Editor5", Id = "123", Institucion = "Institucion7", Tipo = "Libro", Titulo = "Titulo9"}
+AG {Autor = "Autor8", Titulo = "Titulo9", Anio = "Anio8", Id = "124", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor2", Anio = "Anio7", Id = "125", Tipo = "Manual", Titulo = "Titulo4"}
+AG {Autor = "Autor3", Titulo = "Titulo8", Anio = "Anio3", Id = "126", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor7", Titulo = "Titulo3", Anio = "Anio8", Id = "127", Tipo = "Articulo", Conferencia = "Conferencia7"}
+AG {Autor = "Autor5", Titulo = "Titulo4", Anio = "Anio4", Id = "128", Tipo = "Articulo", Conferencia = "Conferencia5"}
+AG {Autor = "Autor7", Titulo = "Titulo6", Anio = "Anio4", Id = "129", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AG {Autor = "Autor0", Anio = "Anio7", Editor = "Editor2", Id = "130", Institucion = "Institucion7", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor0", Anio = "Anio2", Editor = "Editor3", Id = "131", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo0"}
+AG {Autor = "Autor5", Anio = "Anio5", Editor = "Editor1", Id = "132", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo9"}
+AG {Autor = "Autor2", Anio = "Anio8", Id = "133", Tipo = "Manual", Titulo = "Titulo1"}
+AG {Autor = "Autor3", Anio = "Anio2", Id = "134", Tipo = "Manual", Titulo = "Titulo6"}
+AG {Autor = "Autor6", Anio = "Anio6", Editor = "Editor6", Id = "135", Institucion = "Institucion7", Tipo = "Libro", Titulo = "Titulo5"}
+AG {Autor = "Autor5", Anio = "Anio1", Id = "136", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor6", Anio = "Anio5", Id = "137", Tipo = "Manual", Titulo = "Titulo4"}
+AG {Autor = "Autor9", Anio = "Anio8", Id = "138", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor9", Anio = "Anio3", Id = "139", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor8", Titulo = "Titulo6", Anio = "Anio2", Id = "140", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor5", Anio = "Anio6", Id = "141", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor8", Anio = "Anio8", Id = "142", Tipo = "Manual", Titulo = "Titulo5"}
+AG {Autor = "Autor8", Anio = "Anio7", Id = "143", Tipo = "Manual", Titulo = "Titulo5"}
+AG {Autor = "Autor3", Anio = "Anio9", Editor = "Editor5", Id = "144", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo8"}
+AG {Autor = "Autor7", Anio = "Anio5", Editor = "Editor3", Id = "145", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo8"}
+AG {Autor = "Autor6", Anio = "Anio2", Editor = "Editor4", Id = "146", Institucion = "Institucion3", Tipo = "Libro", Titulo = "Titulo0"}
+AG {Autor = "Autor7", Titulo = "Titulo2", Anio = "Anio6", Id = "147", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor5", Titulo = "Titulo2", Anio = "Anio5", Id = "148", Tipo = "Articulo", Conferencia = "Conferencia2"}
+AG {Autor = "Autor8", Anio = "Anio0", Id = "149", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor6", Titulo = "Titulo9", Anio = "Anio1", Id = "150", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor7", Anio = "Anio2", Id = "151", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor3", Titulo = "Titulo5", Anio = "Anio1", Id = "152", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor8", Titulo = "Titulo7", Anio = "Anio9", Id = "153", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AG {Autor = "Autor5", Anio = "Anio3", Editor = "Editor2", Id = "154", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor7", Anio = "Anio3", Id = "155", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor3", Anio = "Anio1", Id = "156", Tipo = "Manual", Titulo = "Titulo0"}
+AG {Autor = "Autor0", Anio = "Anio3", Id = "157", Tipo = "Manual", Titulo = "Titulo6"}
+AG {Autor = "Autor0", Titulo = "Titulo2", Anio = "Anio1", Id = "158", Tipo = "Articulo", Conferencia = "Conferencia1"}
+AG {Autor = "Autor0", Titulo = "Titulo3", Anio = "Anio1", Id = "159", Tipo = "Articulo", Conferencia = "Conferencia1"}
+AG {Autor = "Autor6", Titulo = "Titulo2", Anio = "Anio2", Id = "160", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor0", Anio = "Anio3", Editor = "Editor9", Id = "161", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo1"}
+AG {Autor = "Autor6", Anio = "Anio8", Editor = "Editor0", Id = "162", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo2"}
+AG {Autor = "Autor4", Anio = "Anio6", Id = "163", Tipo = "Manual", Titulo = "Titulo8"}
+AG {Autor = "Autor2", Titulo = "Titulo9", Anio = "Anio0", Id = "164", Tipo = "Articulo", Conferencia = "Conferencia9"}
+AG {Autor = "Autor1", Titulo = "Titulo5", Anio = "Anio6", Id = "165", Tipo = "Articulo", Conferencia = "Conferencia9"}
+AG {Autor = "Autor2", Titulo = "Titulo2", Anio = "Anio2", Id = "166", Tipo = "Articulo", Conferencia = "Conferencia7"}
+AG {Autor = "Autor2", Titulo = "Titulo8", Anio = "Anio3", Id = "167", Tipo = "Articulo", Conferencia = "Conferencia2"}
+AG {Autor = "Autor4", Anio = "Anio8", Id = "168", Tipo = "Manual", Titulo = "Titulo4"}
+AG {Autor = "Autor5", Anio = "Anio3", Id = "169", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor4", Anio = "Anio4", Id = "170", Tipo = "Manual", Titulo = "Titulo1"}
+AG {Autor = "Autor5", Anio = "Anio7", Id = "171", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor3", Anio = "Anio4", Editor = "Editor6", Id = "172", Institucion = "Institucion3", Tipo = "Libro", Titulo = "Titulo5"}
+AG {Autor = "Autor0", Anio = "Anio3", Editor = "Editor8", Id = "173", Institucion = "Institucion4", Tipo = "Libro", Titulo = "Titulo5"}
+AG {Autor = "Autor9", Titulo = "Titulo0", Anio = "Anio8", Id = "174", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor1", Titulo = "Titulo9", Anio = "Anio5", Id = "175", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor1", Anio = "Anio8", Id = "176", Tipo = "Manual", Titulo = "Titulo4"}
+AG {Autor = "Autor7", Anio = "Anio2", Id = "177", Tipo = "Manual", Titulo = "Titulo6"}
+AG {Autor = "Autor2", Anio = "Anio1", Editor = "Editor2", Id = "178", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo4"}
+AG {Autor = "Autor8", Anio = "Anio9", Id = "179", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor6", Anio = "Anio1", Editor = "Editor5", Id = "180", Institucion = "Institucion8", Tipo = "Libro", Titulo = "Titulo8"}
+AG {Autor = "Autor6", Anio = "Anio0", Id = "181", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor6", Anio = "Anio0", Id = "182", Tipo = "Manual", Titulo = "Titulo5"}
+AG {Autor = "Autor2", Anio = "Anio5", Editor = "Editor6", Id = "183", Institucion = "Institucion6", Tipo = "Libro", Titulo = "Titulo5"}
+AG {Autor = "Autor1", Anio = "Anio8", Id = "184", Tipo = "Manual", Titulo = "Titulo1"}
+AG {Autor = "Autor3", Anio = "Anio3", Id = "185", Tipo = "Manual", Titulo = "Titulo1"}
+AG {Autor = "Autor9", Anio = "Anio4", Editor = "Editor9", Id = "186", Institucion = "Institucion3", Tipo = "Libro", Titulo = "Titulo0"}
+AG {Autor = "Autor6", Anio = "Anio3", Editor = "Editor3", Id = "187", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo4"}
+AG {Autor = "Autor2", Anio = "Anio1", Id = "188", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor8", Anio = "Anio6", Id = "189", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor6", Anio = "Anio0", Id = "190", Tipo = "Manual", Titulo = "Titulo4"}
+AG {Autor = "Autor3", Titulo = "Titulo0", Anio = "Anio4", Id = "191", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor4", Anio = "Anio4", Id = "192", Tipo = "Manual", Titulo = "Titulo4"}
+AG {Autor = "Autor4", Anio = "Anio1", Editor = "Editor8", Id = "193", Institucion = "Institucion6", Tipo = "Libro", Titulo = "Titulo0"}
+AG {Autor = "Autor0", Anio = "Anio0", Editor = "Editor5", Id = "194", Institucion = "Institucion4", Tipo = "Libro", Titulo = "Titulo2"}
+AG {Autor = "Autor0", Anio = "Anio4", Editor = "Editor0", Id = "195", Institucion = "Institucion5", Tipo = "Libro", Titulo = "Titulo6"}
+AG {Autor = "Autor2", Anio = "Anio9", Id = "196", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor8", Anio = "Anio2", Editor = "Editor8", Id = "197", Institucion = "Institucion4", Tipo = "Libro", Titulo = "Titulo9"}
+AG {Autor = "Autor9", Anio = "Anio9", Id = "198", Tipo = "Manual", Titulo = "Titulo4"}
+AG {Autor = "Autor1", Anio = "Anio3", Editor = "Editor0", Id = "199", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor8", Anio = "Anio0", Id = "200", Tipo = "Manual", Titulo = "Titulo6"}
+AG {Autor = "Autor5", Anio = "Anio3", Editor = "Editor0", Id = "201", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo6"}
+AG {Autor = "Autor8", Titulo = "Titulo6", Anio = "Anio0", Id = "202", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor2", Anio = "Anio7", Id = "203", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor7", Anio = "Anio3", Editor = "Editor5", Id = "204", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo4"}
+AG {Autor = "Autor2", Anio = "Anio1", Id = "205", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor8", Anio = "Anio9", Id = "206", Tipo = "Manual", Titulo = "Titulo5"}
+AG {Autor = "Autor2", Anio = "Anio4", Id = "207", Tipo = "Manual", Titulo = "Titulo0"}
+AG {Autor = "Autor8", Anio = "Anio1", Id = "208", Tipo = "Manual", Titulo = "Titulo4"}
+AG {Autor = "Autor4", Anio = "Anio7", Id = "209", Tipo = "Manual", Titulo = "Titulo1"}
+AG {Autor = "Autor8", Titulo = "Titulo2", Anio = "Anio7", Id = "210", Tipo = "Articulo", Conferencia = "Conferencia2"}
+AG {Autor = "Autor3", Titulo = "Titulo2", Anio = "Anio1", Id = "211", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AG {Autor = "Autor2", Anio = "Anio7", Id = "212", Tipo = "Manual", Titulo = "Titulo4"}
+AG {Autor = "Autor8", Anio = "Anio7", Editor = "Editor5", Id = "213", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo9"}
+AG {Autor = "Autor0", Anio = "Anio8", Editor = "Editor0", Id = "214", Institucion = "Institucion6", Tipo = "Libro", Titulo = "Titulo3"}
+AG {Autor = "Autor0", Titulo = "Titulo5", Anio = "Anio9", Id = "215", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor9", Titulo = "Titulo9", Anio = "Anio8", Id = "216", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor1", Anio = "Anio3", Editor = "Editor1", Id = "217", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo6"}
+AG {Autor = "Autor1", Anio = "Anio2", Id = "218", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor1", Anio = "Anio3", Editor = "Editor9", Id = "219", Institucion = "Institucion6", Tipo = "Libro", Titulo = "Titulo2"}
+AG {Autor = "Autor1", Anio = "Anio7", Editor = "Editor5", Id = "220", Institucion = "Institucion5", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor5", Anio = "Anio9", Id = "221", Tipo = "Manual", Titulo = "Titulo6"}
+AG {Autor = "Autor4", Anio = "Anio2", Editor = "Editor1", Id = "222", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo3"}
+AG {Autor = "Autor7", Anio = "Anio1", Id = "223", Tipo = "Manual", Titulo = "Titulo5"}
+AG {Autor = "Autor2", Anio = "Anio2", Id = "224", Tipo = "Manual", Titulo = "Titulo5"}
+AG {Autor = "Autor7", Anio = "Anio0", Editor = "Editor3", Id = "225", Institucion = "Institucion3", Tipo = "Libro", Titulo = "Titulo3"}
+AG {Autor = "Autor5", Anio = "Anio8", Id = "226", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor6", Anio = "Anio9", Editor = "Editor6", Id = "227", Institucion = "Institucion5", Tipo = "Libro", Titulo = "Titulo4"}
+AG {Autor = "Autor2", Anio = "Anio9", Id = "228", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor0", Anio = "Anio6", Editor = "Editor9", Id = "229", Institucion = "Institucion4", Tipo = "Libro", Titulo = "Titulo2"}
+AG {Autor = "Autor3", Titulo = "Titulo6", Anio = "Anio3", Id = "230", Tipo = "Articulo", Conferencia = "Conferencia9"}
+AG {Autor = "Autor9", Titulo = "Titulo4", Anio = "Anio0", Id = "231", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor9", Titulo = "Titulo8", Anio = "Anio0", Id = "232", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor7", Titulo = "Titulo5", Anio = "Anio9", Id = "233", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor7", Anio = "Anio8", Editor = "Editor6", Id = "234", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo3"}
+AG {Autor = "Autor3", Anio = "Anio6", Editor = "Editor1", Id = "235", Institucion = "Institucion8", Tipo = "Libro", Titulo = "Titulo8"}
+AG {Autor = "Autor4", Anio = "Anio1", Editor = "Editor8", Id = "236", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo5"}
+AG {Autor = "Autor1", Anio = "Anio0", Id = "237", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor6", Anio = "Anio1", Editor = "Editor0", Id = "238", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo3"}
+AG {Autor = "Autor5", Anio = "Anio4", Editor = "Editor7", Id = "239", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo9"}
+AG {Autor = "Autor5", Anio = "Anio3", Id = "240", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor8", Anio = "Anio6", Id = "241", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor1", Anio = "Anio9", Id = "242", Tipo = "Manual", Titulo = "Titulo0"}
+AG {Autor = "Autor9", Anio = "Anio4", Editor = "Editor3", Id = "243", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo6"}
+AG {Autor = "Autor9", Titulo = "Titulo3", Anio = "Anio9", Id = "244", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor0", Anio = "Anio2", Editor = "Editor7", Id = "245", Institucion = "Institucion4", Tipo = "Libro", Titulo = "Titulo1"}
+AG {Autor = "Autor8", Titulo = "Titulo2", Anio = "Anio2", Id = "246", Tipo = "Articulo", Conferencia = "Conferencia2"}
+AG {Autor = "Autor7", Titulo = "Titulo6", Anio = "Anio0", Id = "247", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor8", Titulo = "Titulo6", Anio = "Anio3", Id = "248", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor7", Anio = "Anio9", Id = "249", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor5", Anio = "Anio5", Editor = "Editor9", Id = "250", Institucion = "Institucion5", Tipo = "Libro", Titulo = "Titulo1"}
+AG {Autor = "Autor3", Anio = "Anio2", Editor = "Editor1", Id = "251", Institucion = "Institucion6", Tipo = "Libro", Titulo = "Titulo4"}
+AG {Autor = "Autor8", Anio = "Anio4", Editor = "Editor7", Id = "252", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo9"}
+AG {Autor = "Autor0", Anio = "Anio2", Id = "253", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor4", Titulo = "Titulo4", Anio = "Anio5", Id = "254", Tipo = "Articulo", Conferencia = "Conferencia9"}
+AG {Autor = "Autor6", Titulo = "Titulo7", Anio = "Anio2", Id = "255", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor4", Anio = "Anio3", Id = "256", Tipo = "Manual", Titulo = "Titulo8"}
+AG {Autor = "Autor8", Titulo = "Titulo2", Anio = "Anio9", Id = "257", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor7", Titulo = "Titulo5", Anio = "Anio3", Id = "258", Tipo = "Articulo", Conferencia = "Conferencia9"}
+AG {Autor = "Autor4", Anio = "Anio4", Id = "259", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor6", Anio = "Anio3", Id = "260", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor7", Anio = "Anio8", Editor = "Editor6", Id = "261", Institucion = "Institucion5", Tipo = "Libro", Titulo = "Titulo5"}
+AG {Autor = "Autor3", Anio = "Anio1", Editor = "Editor3", Id = "262", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo0"}
+AG {Autor = "Autor2", Anio = "Anio6", Id = "263", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor9", Titulo = "Titulo1", Anio = "Anio5", Id = "264", Tipo = "Articulo", Conferencia = "Conferencia1"}
+AG {Autor = "Autor4", Titulo = "Titulo2", Anio = "Anio4", Id = "265", Tipo = "Articulo", Conferencia = "Conferencia9"}
+AG {Autor = "Autor3", Titulo = "Titulo7", Anio = "Anio1", Id = "266", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor1", Anio = "Anio5", Id = "267", Tipo = "Manual", Titulo = "Titulo6"}
+AG {Autor = "Autor3", Titulo = "Titulo4", Anio = "Anio2", Id = "268", Tipo = "Articulo", Conferencia = "Conferencia7"}
+AG {Autor = "Autor2", Anio = "Anio4", Id = "269", Tipo = "Manual", Titulo = "Titulo8"}
+AG {Autor = "Autor8", Anio = "Anio7", Editor = "Editor8", Id = "270", Institucion = "Institucion5", Tipo = "Libro", Titulo = "Titulo5"}
+AG {Autor = "Autor8", Anio = "Anio5", Id = "271", Tipo = "Manual", Titulo = "Titulo6"}
+AG {Autor = "Autor8", Anio = "Anio5", Editor = "Editor2", Id = "272", Institucion = "Institucion5", Tipo = "Libro", Titulo = "Titulo5"}
+AG {Autor = "Autor8", Anio = "Anio3", Id = "273", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor8", Titulo = "Titulo2", Anio = "Anio3", Id = "274", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor4", Anio = "Anio4", Editor = "Editor5", Id = "275", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor9", Anio = "Anio9", Id = "276", Tipo = "Manual", Titulo = "Titulo5"}
+AG {Autor = "Autor8", Anio = "Anio2", Editor = "Editor2", Id = "277", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor0", Titulo = "Titulo9", Anio = "Anio2", Id = "278", Tipo = "Articulo", Conferencia = "Conferencia9"}
+AG {Autor = "Autor2", Titulo = "Titulo9", Anio = "Anio7", Id = "279", Tipo = "Articulo", Conferencia = "Conferencia7"}
+AG {Autor = "Autor7", Titulo = "Titulo5", Anio = "Anio9", Id = "280", Tipo = "Articulo", Conferencia = "Conferencia1"}
+AG {Autor = "Autor9", Titulo = "Titulo9", Anio = "Anio4", Id = "281", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor4", Titulo = "Titulo3", Anio = "Anio9", Id = "282", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor7", Titulo = "Titulo2", Anio = "Anio4", Id = "283", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor9", Anio = "Anio7", Id = "284", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor1", Anio = "Anio3", Editor = "Editor2", Id = "285", Institucion = "Institucion7", Tipo = "Libro", Titulo = "Titulo4"}
+AG {Autor = "Autor0", Anio = "Anio1", Id = "286", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor7", Anio = "Anio9", Id = "287", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor2", Titulo = "Titulo8", Anio = "Anio1", Id = "288", Tipo = "Articulo", Conferencia = "Conferencia9"}
+AG {Autor = "Autor8", Titulo = "Titulo2", Anio = "Anio9", Id = "289", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor0", Anio = "Anio9", Editor = "Editor5", Id = "290", Institucion = "Institucion8", Tipo = "Libro", Titulo = "Titulo0"}
+AG {Autor = "Autor1", Anio = "Anio3", Editor = "Editor8", Id = "291", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo4"}
+AG {Autor = "Autor2", Anio = "Anio4", Id = "292", Tipo = "Manual", Titulo = "Titulo1"}
+AG {Autor = "Autor9", Anio = "Anio0", Editor = "Editor9", Id = "293", Institucion = "Institucion3", Tipo = "Libro", Titulo = "Titulo3"}
+AG {Autor = "Autor8", Anio = "Anio2", Id = "294", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor3", Anio = "Anio3", Id = "295", Tipo = "Manual", Titulo = "Titulo5"}
+AG {Autor = "Autor9", Anio = "Anio7", Id = "296", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor4", Anio = "Anio3", Id = "297", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor0", Anio = "Anio8", Id = "298", Tipo = "Manual", Titulo = "Titulo5"}
+AG {Autor = "Autor3", Anio = "Anio2", Id = "299", Tipo = "Manual", Titulo = "Titulo0"}
+AG {Autor = "Autor6", Titulo = "Titulo6", Anio = "Anio0", Id = "300", Tipo = "Articulo", Conferencia = "Conferencia9"}
+AG {Autor = "Autor6", Anio = "Anio5", Id = "301", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor0", Anio = "Anio7", Id = "302", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor6", Anio = "Anio5", Editor = "Editor6", Id = "303", Institucion = "Institucion8", Tipo = "Libro", Titulo = "Titulo4"}
+AG {Autor = "Autor3", Anio = "Anio2", Editor = "Editor6", Id = "304", Institucion = "Institucion3", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor5", Anio = "Anio0", Id = "305", Tipo = "Manual", Titulo = "Titulo4"}
+AG {Autor = "Autor4", Anio = "Anio6", Editor = "Editor0", Id = "306", Institucion = "Institucion7", Tipo = "Libro", Titulo = "Titulo5"}
+AG {Autor = "Autor4", Anio = "Anio4", Editor = "Editor7", Id = "307", Institucion = "Institucion5", Tipo = "Libro", Titulo = "Titulo5"}
+AG {Autor = "Autor0", Titulo = "Titulo9", Anio = "Anio7", Id = "308", Tipo = "Articulo", Conferencia = "Conferencia1"}
+AG {Autor = "Autor9", Anio = "Anio4", Editor = "Editor6", Id = "309", Institucion = "Institucion3", Tipo = "Libro", Titulo = "Titulo0"}
+AG {Autor = "Autor8", Anio = "Anio2", Id = "310", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor1", Titulo = "Titulo4", Anio = "Anio1", Id = "311", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor5", Anio = "Anio7", Id = "312", Tipo = "Manual", Titulo = "Titulo6"}
+AG {Autor = "Autor6", Anio = "Anio1", Editor = "Editor7", Id = "313", Institucion = "Institucion7", Tipo = "Libro", Titulo = "Titulo4"}
+AG {Autor = "Autor9", Anio = "Anio5", Editor = "Editor5", Id = "314", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo2"}
+AG {Autor = "Autor6", Anio = "Anio1", Editor = "Editor6", Id = "315", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo0"}
+AG {Autor = "Autor5", Anio = "Anio4", Editor = "Editor8", Id = "316", Institucion = "Institucion4", Tipo = "Libro", Titulo = "Titulo5"}
+AG {Autor = "Autor0", Anio = "Anio3", Id = "317", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor7", Anio = "Anio3", Editor = "Editor7", Id = "318", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo1"}
+AG {Autor = "Autor5", Titulo = "Titulo9", Anio = "Anio6", Id = "319", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor0", Anio = "Anio8", Editor = "Editor5", Id = "320", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor3", Titulo = "Titulo4", Anio = "Anio7", Id = "321", Tipo = "Articulo", Conferencia = "Conferencia2"}
+AG {Autor = "Autor5", Titulo = "Titulo8", Anio = "Anio3", Id = "322", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor5", Anio = "Anio7", Id = "323", Tipo = "Manual", Titulo = "Titulo8"}
+AG {Autor = "Autor0", Anio = "Anio4", Id = "324", Tipo = "Manual", Titulo = "Titulo1"}
+AG {Autor = "Autor5", Titulo = "Titulo1", Anio = "Anio8", Id = "325", Tipo = "Articulo", Conferencia = "Conferencia9"}
+AG {Autor = "Autor6", Anio = "Anio8", Id = "326", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor6", Anio = "Anio4", Id = "327", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor8", Titulo = "Titulo6", Anio = "Anio3", Id = "328", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor5", Anio = "Anio1", Id = "329", Tipo = "Manual", Titulo = "Titulo8"}
+AG {Autor = "Autor3", Anio = "Anio9", Editor = "Editor1", Id = "330", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo6"}
+AG {Autor = "Autor8", Anio = "Anio0", Editor = "Editor1", Id = "331", Institucion = "Institucion6", Tipo = "Libro", Titulo = "Titulo4"}
+AG {Autor = "Autor8", Anio = "Anio1", Editor = "Editor9", Id = "332", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo2"}
+AG {Autor = "Autor2", Anio = "Anio2", Editor = "Editor5", Id = "333", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo5"}
+AG {Autor = "Autor4", Anio = "Anio8", Id = "334", Tipo = "Manual", Titulo = "Titulo6"}
+AG {Autor = "Autor1", Titulo = "Titulo1", Anio = "Anio1", Id = "335", Tipo = "Articulo", Conferencia = "Conferencia2"}
+AG {Autor = "Autor6", Anio = "Anio0", Editor = "Editor8", Id = "336", Institucion = "Institucion4", Tipo = "Libro", Titulo = "Titulo9"}
+AG {Autor = "Autor4", Titulo = "Titulo6", Anio = "Anio6", Id = "337", Tipo = "Articulo", Conferencia = "Conferencia7"}
+AG {Autor = "Autor8", Titulo = "Titulo6", Anio = "Anio6", Id = "338", Tipo = "Articulo", Conferencia = "Conferencia5"}
+AG {Autor = "Autor9", Anio = "Anio5", Editor = "Editor3", Id = "339", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo6"}
+AG {Autor = "Autor2", Anio = "Anio0", Editor = "Editor8", Id = "340", Institucion = "Institucion3", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor2", Titulo = "Titulo0", Anio = "Anio6", Id = "341", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor3", Anio = "Anio2", Editor = "Editor4", Id = "342", Institucion = "Institucion8", Tipo = "Libro", Titulo = "Titulo6"}
+AG {Autor = "Autor0", Titulo = "Titulo0", Anio = "Anio9", Id = "343", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor6", Anio = "Anio8", Editor = "Editor3", Id = "344", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor6", Titulo = "Titulo6", Anio = "Anio1", Id = "345", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AG {Autor = "Autor4", Titulo = "Titulo4", Anio = "Anio6", Id = "346", Tipo = "Articulo", Conferencia = "Conferencia9"}
+AG {Autor = "Autor2", Anio = "Anio6", Editor = "Editor8", Id = "347", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo6"}
+AG {Autor = "Autor4", Titulo = "Titulo9", Anio = "Anio3", Id = "348", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor4", Anio = "Anio6", Editor = "Editor8", Id = "349", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo9"}
+AG {Autor = "Autor4", Anio = "Anio6", Editor = "Editor7", Id = "350", Institucion = "Institucion4", Tipo = "Libro", Titulo = "Titulo3"}
+AG {Autor = "Autor0", Titulo = "Titulo7", Anio = "Anio3", Id = "351", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor4", Anio = "Anio5", Id = "352", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor1", Titulo = "Titulo1", Anio = "Anio1", Id = "353", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor8", Anio = "Anio5", Id = "354", Tipo = "Manual", Titulo = "Titulo8"}
+AG {Autor = "Autor3", Anio = "Anio3", Editor = "Editor4", Id = "355", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor4", Titulo = "Titulo8", Anio = "Anio2", Id = "356", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor0", Anio = "Anio5", Id = "357", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor6", Anio = "Anio9", Id = "358", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor3", Anio = "Anio1", Id = "359", Tipo = "Manual", Titulo = "Titulo4"}
+AG {Autor = "Autor7", Titulo = "Titulo7", Anio = "Anio1", Id = "360", Tipo = "Articulo", Conferencia = "Conferencia7"}
+AG {Autor = "Autor2", Anio = "Anio2", Id = "361", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor8", Titulo = "Titulo3", Anio = "Anio9", Id = "362", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor6", Anio = "Anio2", Id = "363", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor9", Anio = "Anio0", Id = "364", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor5", Titulo = "Titulo5", Anio = "Anio8", Id = "365", Tipo = "Articulo", Conferencia = "Conferencia2"}
+AG {Autor = "Autor1", Titulo = "Titulo7", Anio = "Anio8", Id = "366", Tipo = "Articulo", Conferencia = "Conferencia5"}
+AG {Autor = "Autor6", Titulo = "Titulo9", Anio = "Anio1", Id = "367", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor4", Anio = "Anio1", Id = "368", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor9", Titulo = "Titulo7", Anio = "Anio8", Id = "369", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor0", Anio = "Anio2", Editor = "Editor0", Id = "370", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo1"}
+AG {Autor = "Autor1", Titulo = "Titulo2", Anio = "Anio4", Id = "371", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor7", Titulo = "Titulo6", Anio = "Anio5", Id = "372", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AG {Autor = "Autor2", Anio = "Anio8", Id = "373", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor2", Anio = "Anio6", Editor = "Editor8", Id = "374", Institucion = "Institucion6", Tipo = "Libro", Titulo = "Titulo8"}
+AG {Autor = "Autor9", Titulo = "Titulo9", Anio = "Anio9", Id = "375", Tipo = "Articulo", Conferencia = "Conferencia5"}
+AG {Autor = "Autor4", Anio = "Anio7", Id = "376", Tipo = "Manual", Titulo = "Titulo4"}
+AG {Autor = "Autor1", Titulo = "Titulo5", Anio = "Anio8", Id = "377", Tipo = "Articulo", Conferencia = "Conferencia5"}
+AG {Autor = "Autor3", Titulo = "Titulo0", Anio = "Anio7", Id = "378", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor4", Titulo = "Titulo8", Anio = "Anio8", Id = "379", Tipo = "Articulo", Conferencia = "Conferencia5"}
+AG {Autor = "Autor8", Anio = "Anio4", Id = "380", Tipo = "Manual", Titulo = "Titulo8"}
+AG {Autor = "Autor3", Titulo = "Titulo7", Anio = "Anio3", Id = "381", Tipo = "Articulo", Conferencia = "Conferencia1"}
+AG {Autor = "Autor8", Anio = "Anio2", Id = "382", Tipo = "Manual", Titulo = "Titulo1"}
+AG {Autor = "Autor5", Anio = "Anio8", Id = "383", Tipo = "Manual", Titulo = "Titulo1"}
+AG {Autor = "Autor4", Anio = "Anio8", Id = "384", Tipo = "Manual", Titulo = "Titulo0"}
+AG {Autor = "Autor7", Titulo = "Titulo0", Anio = "Anio3", Id = "385", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor3", Anio = "Anio1", Editor = "Editor6", Id = "386", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo1"}
+AG {Autor = "Autor9", Anio = "Anio5", Editor = "Editor7", Id = "387", Institucion = "Institucion8", Tipo = "Libro", Titulo = "Titulo3"}
+AG {Autor = "Autor5", Anio = "Anio6", Id = "388", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor7", Anio = "Anio7", Editor = "Editor8", Id = "389", Institucion = "Institucion5", Tipo = "Libro", Titulo = "Titulo1"}
+AG {Autor = "Autor8", Anio = "Anio7", Editor = "Editor1", Id = "390", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo8"}
+AG {Autor = "Autor2", Anio = "Anio7", Id = "391", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor0", Titulo = "Titulo2", Anio = "Anio3", Id = "392", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AG {Autor = "Autor3", Anio = "Anio2", Id = "393", Tipo = "Manual", Titulo = "Titulo0"}
+AG {Autor = "Autor4", Anio = "Anio7", Id = "394", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor1", Anio = "Anio2", Id = "395", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor1", Anio = "Anio7", Id = "396", Tipo = "Manual", Titulo = "Titulo0"}
+AG {Autor = "Autor7", Anio = "Anio1", Id = "397", Tipo = "Manual", Titulo = "Titulo5"}
+AG {Autor = "Autor4", Anio = "Anio9", Id = "398", Tipo = "Manual", Titulo = "Titulo6"}
+AG {Autor = "Autor1", Titulo = "Titulo0", Anio = "Anio7", Id = "399", Tipo = "Articulo", Conferencia = "Conferencia4"}
+CO {Autor = "Autor8"}
+CO {Autor = "Autor7"}
+CO {Anio = "Anio6", Tipo = "Libro"}
+AC {Anio = "Anio8", Tipo = "Libro"}{Institucion = "Institucion3", Autor = "Autor0"}
+AC {Autor = "Autor8"}{Anio = "Anio5"}
+CO {Autor = "Autor3"}
+AC {Anio = "Anio7"}{Anio = "Anio9"}
+AG {Autor = "Autor5", Titulo = "Titulo6", Anio = "Anio3", Id = "400", Tipo = "Articulo", Conferencia = "Conferencia1"}
+CO {Anio = "Anio7", Tipo = "Libro"}
+CO {Anio = "Anio1", Tipo = "Libro"}
+AC {Autor = "Autor6"}{Autor = "Autor0"}
+AC {Autor = "Autor8"}{Autor = "Autor7"}
+AG {Autor = "Autor8", Anio = "Anio5", Editor = "Editor2", Id = "401", Institucion = "Institucion5", Tipo = "Libro", Titulo = "Titulo5"}
+AC {Anio = "Anio3", Tipo = "Libro"}{Institucion = "Institucion2", Autor = "Autor9"}
+AC {Anio = "Anio2"}{Autor = "Autor6"}
+CO {Autor = "Autor9"}
+AG {Autor = "Autor4", Titulo = "Titulo8", Anio = "Anio2", Id = "402", Tipo = "Articulo", Conferencia = "Conferencia0"}
+CO {Anio = "Anio8", Tipo = "Libro"}
+AG {Autor = "Autor5", Anio = "Anio5", Id = "403", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor2", Titulo = "Titulo9", Anio = "Anio9", Id = "404", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AC {Anio = "Anio5"}{Anio = "Anio2"}
+AC {Autor = "Autor6"}{Institucion = "Institucion7", Autor = "Autor7"}
+AC {Autor = "Autor3"}{Institucion = "Institucion5", Autor = "Autor5"}
+CO {Anio = "Anio7", Tipo = "Libro"}
+AC {Anio = "Anio2"}{Autor = "Autor8"}
+AC {Autor = "Autor4"}{Institucion = "Institucion9", Autor = "Autor6"}
+CO {Anio = "Anio4", Tipo = "Libro"}
+CO {Anio = "Anio5", Tipo = "Libro"}
+AG {Autor = "Autor9", Anio = "Anio5", Editor = "Editor5", Id = "405", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo0"}
+AG {Autor = "Autor3", Titulo = "Titulo3", Anio = "Anio3", Id = "406", Tipo = "Articulo", Conferencia = "Conferencia5"}
+AG {Autor = "Autor2", Anio = "Anio6", Id = "407", Tipo = "Manual", Titulo = "Titulo7"}
+CO {Anio = "Anio7", Tipo = "Libro"}
+CO {Autor = "Autor6"}
+AC {Anio = "Anio5", Tipo = "Libro"}{Autor = "Autor6"}
+AC {Anio = "Anio3", Tipo = "Libro"}{Institucion = "Institucion5", Autor = "Autor8"}
+AC {Anio = "Anio9"}{Autor = "Autor5"}
+AG {Autor = "Autor0", Anio = "Anio9", Editor = "Editor2", Id = "408", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo0"}
+AC {Anio = "Anio1", Tipo = "Libro"}{Institucion = "Institucion3", Autor = "Autor5"}
+AC {Anio = "Anio8", Tipo = "Libro"}{Anio = "Anio3"}
+AG {Autor = "Autor3", Titulo = "Titulo9", Anio = "Anio6", Id = "409", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AC {Autor = "Autor0"}{Autor = "Autor7"}
+AC {Autor = "Autor7"}{Autor = "Autor3"}
+AG {Autor = "Autor3", Anio = "Anio8", Id = "410", Tipo = "Manual", Titulo = "Titulo8"}
+AG {Autor = "Autor3", Anio = "Anio7", Id = "411", Tipo = "Manual", Titulo = "Titulo0"}
+CO {Anio = "Anio9"}
+AC {Anio = "Anio1", Tipo = "Libro"}{Anio = "Anio8"}
+AC {Autor = "Autor5"}{Autor = "Autor8"}
+CO {Anio = "Anio1"}
+CO {Anio = "Anio2", Tipo = "Libro"}
+AG {Autor = "Autor2", Anio = "Anio7", Editor = "Editor5", Id = "412", Institucion = "Institucion5", Tipo = "Libro", Titulo = "Titulo8"}
+AC {Autor = "Autor0"}{Institucion = "Institucion5", Autor = "Autor6"}
+AG {Autor = "Autor4", Anio = "Anio8", Editor = "Editor1", Id = "413", Institucion = "Institucion7", Tipo = "Libro", Titulo = "Titulo8"}
+AC {Autor = "Autor7"}{Anio = "Anio5"}
+AG {Autor = "Autor3", Titulo = "Titulo2", Anio = "Anio2", Id = "414", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AC {Autor = "Autor1"}{Autor = "Autor5"}
+AG {Autor = "Autor3", Titulo = "Titulo8", Anio = "Anio4", Id = "415", Tipo = "Articulo", Conferencia = "Conferencia1"}
+CO {Anio = "Anio9", Tipo = "Libro"}
+AG {Autor = "Autor8", Anio = "Anio4", Editor = "Editor2", Id = "416", Institucion = "Institucion4", Tipo = "Libro", Titulo = "Titulo7"}
+AC {Autor = "Autor1"}{Institucion = "Institucion9", Autor = "Autor2"}
+AG {Autor = "Autor9", Anio = "Anio7", Editor = "Editor1", Id = "417", Institucion = "Institucion7", Tipo = "Libro", Titulo = "Titulo6"}
+AC {Anio = "Anio3"}{Institucion = "Institucion0", Autor = "Autor3"}
+CO {Anio = "Anio7"}
+AC {Anio = "Anio4"}{Institucion = "Institucion3", Autor = "Autor8"}
+AG {Autor = "Autor2", Anio = "Anio4", Editor = "Editor4", Id = "418", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo1"}
+AG {Autor = "Autor1", Titulo = "Titulo5", Anio = "Anio5", Id = "419", Tipo = "Articulo", Conferencia = "Conferencia9"}
+CO {Autor = "Autor2"}
+AC {Anio = "Anio3"}{Autor = "Autor5"}
+CO {Autor = "Autor6"}
+AG {Autor = "Autor7", Anio = "Anio9", Editor = "Editor0", Id = "420", Institucion = "Institucion7", Tipo = "Libro", Titulo = "Titulo6"}
+AG {Autor = "Autor1", Anio = "Anio9", Id = "421", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor1", Titulo = "Titulo8", Anio = "Anio0", Id = "422", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor6", Anio = "Anio7", Editor = "Editor4", Id = "423", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo9"}
+AC {Autor = "Autor8"}{Institucion = "Institucion9", Autor = "Autor9"}
+AC {Anio = "Anio2", Tipo = "Libro"}{Anio = "Anio8"}
+AC {Anio = "Anio3"}{Autor = "Autor8"}
+CO {Anio = "Anio6"}
+AC {Autor = "Autor6"}{Anio = "Anio1"}
+CO {Anio = "Anio1"}
+CO {Autor = "Autor5"}
+AG {Autor = "Autor5", Titulo = "Titulo8", Anio = "Anio4", Id = "424", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor3", Anio = "Anio7", Editor = "Editor8", Id = "425", Institucion = "Institucion7", Tipo = "Libro", Titulo = "Titulo2"}
+AG {Autor = "Autor8", Anio = "Anio6", Id = "426", Tipo = "Manual", Titulo = "Titulo3"}
+AC {Anio = "Anio5"}{Institucion = "Institucion3", Autor = "Autor9"}
+AC {Anio = "Anio5"}{Anio = "Anio0"}
+CO {Autor = "Autor2"}
+AC {Anio = "Anio0", Tipo = "Libro"}{Anio = "Anio2"}
+AC {Anio = "Anio0", Tipo = "Libro"}{Anio = "Anio1"}
+AC {Anio = "Anio1", Tipo = "Libro"}{Institucion = "Institucion8", Autor = "Autor6"}
+CO {Anio = "Anio6"}
+AG {Autor = "Autor3", Anio = "Anio0", Editor = "Editor6", Id = "427", Institucion = "Institucion4", Tipo = "Libro", Titulo = "Titulo2"}
+CO {Anio = "Anio2", Tipo = "Libro"}
+AC {Anio = "Anio2"}{Institucion = "Institucion3", Autor = "Autor5"}
+CO {Anio = "Anio8", Tipo = "Libro"}
+AG {Autor = "Autor4", Anio = "Anio8", Editor = "Editor6", Id = "428", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor2", Anio = "Anio6", Id = "429", Tipo = "Manual", Titulo = "Titulo6"}
+AC {Anio = "Anio7"}{Anio = "Anio9"}
+CO {Autor = "Autor4"}
+AG {Autor = "Autor1", Anio = "Anio0", Editor = "Editor9", Id = "430", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo0"}
+AC {Anio = "Anio7", Tipo = "Libro"}{Autor = "Autor9"}
+AG {Autor = "Autor1", Anio = "Anio6", Id = "431", Tipo = "Manual", Titulo = "Titulo6"}
+AG {Autor = "Autor1", Titulo = "Titulo5", Anio = "Anio2", Id = "432", Tipo = "Articulo", Conferencia = "Conferencia9"}
+AG {Autor = "Autor0", Anio = "Anio6", Id = "433", Tipo = "Manual", Titulo = "Titulo6"}
+AG {Autor = "Autor3", Titulo = "Titulo2", Anio = "Anio0", Id = "434", Tipo = "Articulo", Conferencia = "Conferencia4"}
+CO {Autor = "Autor6"}
+AG {Autor = "Autor9", Anio = "Anio5", Id = "435", Tipo = "Manual", Titulo = "Titulo3"}
+CO {Autor = "Autor0"}
+CO {Autor = "Autor0"}
+AG {Autor = "Autor0", Anio = "Anio5", Id = "436", Tipo = "Manual", Titulo = "Titulo6"}
+AG {Autor = "Autor9", Anio = "Anio3", Id = "437", Tipo = "Manual", Titulo = "Titulo2"}
+AG {Autor = "Autor0", Titulo = "Titulo3", Anio = "Anio0", Id = "438", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AC {Anio = "Anio7", Tipo = "Libro"}{Anio = "Anio1"}
+AC {Anio = "Anio5", Tipo = "Libro"}{Institucion = "Institucion6", Autor = "Autor3"}
+AG {Autor = "Autor2", Titulo = "Titulo5", Anio = "Anio0", Id = "439", Tipo = "Articulo", Conferencia = "Conferencia1"}
+AC {Anio = "Anio7"}{Institucion = "Institucion1", Autor = "Autor0"}
+CO {Anio = "Anio5", Tipo = "Libro"}
+CO {Anio = "Anio6"}
+AG {Autor = "Autor9", Titulo = "Titulo1", Anio = "Anio5", Id = "440", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor5", Anio = "Anio4", Id = "441", Tipo = "Manual", Titulo = "Titulo9"}
+CO {Anio = "Anio6"}
+AC {Autor = "Autor3"}{Autor = "Autor6"}
+AG {Autor = "Autor1", Titulo = "Titulo7", Anio = "Anio9", Id = "442", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AC {Autor = "Autor4"}{Autor = "Autor8"}
+AG {Autor = "Autor1", Titulo = "Titulo9", Anio = "Anio4", Id = "443", Tipo = "Articulo", Conferencia = "Conferencia6"}
+CO {Anio = "Anio4"}
+AC {Anio = "Anio7"}{Anio = "Anio9"}
+AC {Autor = "Autor5"}{Autor = "Autor4"}
+AC {Anio = "Anio4"}{Institucion = "Institucion5", Autor = "Autor2"}
+AG {Autor = "Autor0", Anio = "Anio9", Id = "444", Tipo = "Manual", Titulo = "Titulo7"}
+CO {Anio = "Anio9"}
+AG {Autor = "Autor4", Anio = "Anio2", Editor = "Editor2", Id = "445", Institucion = "Institucion4", Tipo = "Libro", Titulo = "Titulo3"}
+AC {Anio = "Anio3", Tipo = "Libro"}{Institucion = "Institucion9", Autor = "Autor6"}
+AC {Autor = "Autor7"}{Anio = "Anio9"}
+CO {Autor = "Autor9"}
+AG {Autor = "Autor5", Titulo = "Titulo1", Anio = "Anio6", Id = "446", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AC {Anio = "Anio7", Tipo = "Libro"}{Anio = "Anio6"}
+CO {Autor = "Autor5"}
+CO {Anio = "Anio9"}
+AC {Anio = "Anio2", Tipo = "Libro"}{Anio = "Anio0"}
+AC {Autor = "Autor8"}{Institucion = "Institucion0", Autor = "Autor4"}
+AG {Autor = "Autor1", Anio = "Anio3", Id = "447", Tipo = "Manual", Titulo = "Titulo7"}
+AC {Anio = "Anio3", Tipo = "Libro"}{Anio = "Anio9"}
+AC {Autor = "Autor3"}{Institucion = "Institucion6", Autor = "Autor2"}
+CO {Autor = "Autor7"}
+AC {Anio = "Anio0", Tipo = "Libro"}{Institucion = "Institucion8", Autor = "Autor0"}
+CO {Anio = "Anio3", Tipo = "Libro"}
+AG {Autor = "Autor3", Anio = "Anio9", Id = "448", Tipo = "Manual", Titulo = "Titulo4"}
+CO {Anio = "Anio6"}
+CO {Anio = "Anio4", Tipo = "Libro"}
+CO {Autor = "Autor7"}
+AC {Anio = "Anio3"}{Institucion = "Institucion6", Autor = "Autor9"}
+AC {Autor = "Autor0"}{Autor = "Autor7"}
+CO {Anio = "Anio1", Tipo = "Libro"}
+CO {Anio = "Anio3", Tipo = "Libro"}
+AG {Autor = "Autor5", Anio = "Anio3", Id = "449", Tipo = "Manual", Titulo = "Titulo6"}
+AC {Anio = "Anio3"}{Institucion = "Institucion3", Autor = "Autor8"}
+AC {Anio = "Anio1", Tipo = "Libro"}{Anio = "Anio6"}
+AC {Autor = "Autor9"}{Institucion = "Institucion8", Autor = "Autor7"}
+CO {Autor = "Autor2"}
+AC {Anio = "Anio4"}{Autor = "Autor5"}
+CO {Anio = "Anio8", Tipo = "Libro"}
+AG {Autor = "Autor2", Anio = "Anio8", Editor = "Editor6", Id = "450", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo2"}
+AG {Autor = "Autor6", Titulo = "Titulo7", Anio = "Anio4", Id = "451", Tipo = "Articulo", Conferencia = "Conferencia8"}
+AG {Autor = "Autor0", Anio = "Anio0", Editor = "Editor9", Id = "452", Institucion = "Institucion8", Tipo = "Libro", Titulo = "Titulo1"}
+AC {Autor = "Autor2"}{Institucion = "Institucion1", Autor = "Autor8"}
+AC {Anio = "Anio0", Tipo = "Libro"}{Autor = "Autor7"}
+AG {Autor = "Autor3", Titulo = "Titulo0", Anio = "Anio6", Id = "453", Tipo = "Articulo", Conferencia = "Conferencia7"}
+CO {Anio = "Anio5"}
+AG {Autor = "Autor5", Anio = "Anio0", Id = "454", Tipo = "Manual", Titulo = "Titulo6"}
+AG {Autor = "Autor8", Anio = "Anio3", Editor = "Editor1", Id = "455", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo7"}
+AC {Anio = "Anio0"}{Autor = "Autor6"}
+AG {Autor = "Autor0", Titulo = "Titulo9", Anio = "Anio6", Id = "456", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AC {Anio = "Anio0", Tipo = "Libro"}{Anio = "Anio3"}
+CO {Anio = "Anio5", Tipo = "Libro"}
+AG {Autor = "Autor1", Titulo = "Titulo7", Anio = "Anio8", Id = "457", Tipo = "Articulo", Conferencia = "Conferencia7"}
+AG {Autor = "Autor5", Anio = "Anio2", Id = "458", Tipo = "Manual", Titulo = "Titulo3"}
+AC {Autor = "Autor7"}{Autor = "Autor4"}
+AG {Autor = "Autor4", Anio = "Anio7", Editor = "Editor6", Id = "459", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo6"}
+AG {Autor = "Autor5", Anio = "Anio7", Id = "460", Tipo = "Manual", Titulo = "Titulo5"}
+AC {Autor = "Autor5"}{Autor = "Autor2"}
+AG {Autor = "Autor6", Anio = "Anio3", Id = "461", Tipo = "Manual", Titulo = "Titulo0"}
+AC {Autor = "Autor7"}{Institucion = "Institucion2", Autor = "Autor8"}
+AG {Autor = "Autor7", Anio = "Anio6", Id = "462", Tipo = "Manual", Titulo = "Titulo7"}
+AG {Autor = "Autor3", Anio = "Anio8", Id = "463", Tipo = "Manual", Titulo = "Titulo6"}
+CO {Anio = "Anio6"}
+AG {Autor = "Autor4", Anio = "Anio2", Editor = "Editor0", Id = "464", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo5"}
+CO {Autor = "Autor2"}
+AC {Autor = "Autor9"}{Anio = "Anio9"}
+CO {Autor = "Autor5"}
+AC {Anio = "Anio1"}{Anio = "Anio9"}
+AG {Autor = "Autor1", Anio = "Anio3", Editor = "Editor3", Id = "465", Institucion = "Institucion9", Tipo = "Libro", Titulo = "Titulo9"}
+AC {Anio = "Anio4", Tipo = "Libro"}{Anio = "Anio2"}
+AC {Anio = "Anio0", Tipo = "Libro"}{Institucion = "Institucion6", Autor = "Autor3"}
+AG {Autor = "Autor8", Anio = "Anio9", Editor = "Editor6", Id = "466", Institucion = "Institucion6", Tipo = "Libro", Titulo = "Titulo8"}
+AG {Autor = "Autor5", Titulo = "Titulo5", Anio = "Anio7", Id = "467", Tipo = "Articulo", Conferencia = "Conferencia8"}
+CO {Anio = "Anio8", Tipo = "Libro"}
+CO {Autor = "Autor9"}
+CO {Anio = "Anio9", Tipo = "Libro"}
+AG {Autor = "Autor4", Titulo = "Titulo3", Anio = "Anio1", Id = "468", Tipo = "Articulo", Conferencia = "Conferencia6"}
+CO {Anio = "Anio1"}
+AC {Anio = "Anio8", Tipo = "Libro"}{Anio = "Anio9"}
+AC {Autor = "Autor5"}{Autor = "Autor8"}
+CO {Autor = "Autor7"}
+CO {Anio = "Anio6"}
+AG {Autor = "Autor1", Anio = "Anio9", Editor = "Editor9", Id = "469", Institucion = "Institucion7", Tipo = "Libro", Titulo = "Titulo0"}
+AC {Anio = "Anio2", Tipo = "Libro"}{Anio = "Anio4"}
+CO {Anio = "Anio0", Tipo = "Libro"}
+CO {Anio = "Anio5"}
+AG {Autor = "Autor4", Anio = "Anio5", Editor = "Editor7", Id = "470", Institucion = "Institucion1", Tipo = "Libro", Titulo = "Titulo8"}
+AC {Anio = "Anio5"}{Autor = "Autor4"}
+AC {Autor = "Autor7"}{Anio = "Anio7"}
+AC {Anio = "Anio7", Tipo = "Libro"}{Autor = "Autor4"}
+AG {Autor = "Autor4", Anio = "Anio8", Id = "471", Tipo = "Manual", Titulo = "Titulo8"}
+CO {Anio = "Anio1"}
+AC {Anio = "Anio6", Tipo = "Libro"}{Autor = "Autor0"}
+AC {Anio = "Anio8"}{Institucion = "Institucion6", Autor = "Autor9"}
+AC {Autor = "Autor6"}{Institucion = "Institucion7", Autor = "Autor7"}
+CO {Anio = "Anio7", Tipo = "Libro"}
+AC {Autor = "Autor5"}{Autor = "Autor5"}
+AC {Autor = "Autor0"}{Anio = "Anio9"}
+AC {Anio = "Anio9", Tipo = "Libro"}{Institucion = "Institucion0", Autor = "Autor8"}
+CO {Anio = "Anio0", Tipo = "Libro"}
+AG {Autor = "Autor2", Anio = "Anio5", Editor = "Editor0", Id = "472", Institucion = "Institucion3", Tipo = "Libro", Titulo = "Titulo0"}
+AC {Autor = "Autor5"}{Institucion = "Institucion5", Autor = "Autor0"}
+AC {Anio = "Anio7", Tipo = "Libro"}{Autor = "Autor0"}
+CO {Anio = "Anio7", Tipo = "Libro"}
+AG {Autor = "Autor5", Titulo = "Titulo6", Anio = "Anio6", Id = "473", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor2", Anio = "Anio3", Editor = "Editor2", Id = "474", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo5"}
+CO {Autor = "Autor6"}
+AC {Anio = "Anio1", Tipo = "Libro"}{Anio = "Anio8"}
+AG {Autor = "Autor6", Anio = "Anio5", Id = "475", Tipo = "Manual", Titulo = "Titulo7"}
+AC {Anio = "Anio3", Tipo = "Libro"}{Anio = "Anio6"}
+CO {Anio = "Anio2", Tipo = "Libro"}
+AC {Autor = "Autor4"}{Institucion = "Institucion0", Autor = "Autor9"}
+AG {Autor = "Autor9", Titulo = "Titulo6", Anio = "Anio2", Id = "476", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AC {Anio = "Anio9"}{Autor = "Autor6"}
+AG {Autor = "Autor1", Titulo = "Titulo5", Anio = "Anio8", Id = "477", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor7", Titulo = "Titulo8", Anio = "Anio7", Id = "478", Tipo = "Articulo", Conferencia = "Conferencia7"}
+AG {Autor = "Autor7", Anio = "Anio5", Id = "479", Tipo = "Manual", Titulo = "Titulo6"}
+AC {Anio = "Anio0", Tipo = "Libro"}{Autor = "Autor8"}
+CO {Autor = "Autor9"}
+AG {Autor = "Autor0", Titulo = "Titulo7", Anio = "Anio8", Id = "480", Tipo = "Articulo", Conferencia = "Conferencia7"}
+CO {Autor = "Autor8"}
+CO {Anio = "Anio0", Tipo = "Libro"}
+CO {Autor = "Autor2"}
+CO {Anio = "Anio0", Tipo = "Libro"}
+AG {Autor = "Autor8", Titulo = "Titulo7", Anio = "Anio6", Id = "481", Tipo = "Articulo", Conferencia = "Conferencia5"}
+CO {Anio = "Anio9", Tipo = "Libro"}
+AC {Anio = "Anio2", Tipo = "Libro"}{Anio = "Anio8"}
+CO {Autor = "Autor2"}
+CO {Anio = "Anio9", Tipo = "Libro"}
+AG {Autor = "Autor6", Titulo = "Titulo3", Anio = "Anio8", Id = "482", Tipo = "Articulo", Conferencia = "Conferencia4"}
+CO {Anio = "Anio3", Tipo = "Libro"}
+CO {Anio = "Anio4"}
+CO {Anio = "Anio5", Tipo = "Libro"}
+AC {Anio = "Anio2", Tipo = "Libro"}{Autor = "Autor1"}
+CO {Anio = "Anio5"}
+CO {Anio = "Anio1"}
+CO {Anio = "Anio9"}
+AG {Autor = "Autor0", Anio = "Anio6", Id = "483", Tipo = "Manual", Titulo = "Titulo5"}
+AG {Autor = "Autor1", Anio = "Anio0", Editor = "Editor1", Id = "484", Institucion = "Institucion4", Tipo = "Libro", Titulo = "Titulo2"}
+AC {Anio = "Anio2", Tipo = "Libro"}{Autor = "Autor3"}
+AC {Anio = "Anio0", Tipo = "Libro"}{Anio = "Anio4"}
+AC {Autor = "Autor2"}{Anio = "Anio9"}
+AG {Autor = "Autor7", Titulo = "Titulo6", Anio = "Anio9", Id = "485", Tipo = "Articulo", Conferencia = "Conferencia5"}
+AC {Anio = "Anio2", Tipo = "Libro"}{Institucion = "Institucion3", Autor = "Autor9"}
+CO {Anio = "Anio1"}
+AC {Anio = "Anio1", Tipo = "Libro"}{Institucion = "Institucion3", Autor = "Autor0"}
+AC {Anio = "Anio5", Tipo = "Libro"}{Autor = "Autor5"}
+CO {Anio = "Anio0", Tipo = "Libro"}
+CO {Anio = "Anio3", Tipo = "Libro"}
+AG {Autor = "Autor9", Anio = "Anio1", Editor = "Editor2", Id = "486", Institucion = "Institucion6", Tipo = "Libro", Titulo = "Titulo4"}
+AC {Anio = "Anio9", Tipo = "Libro"}{Autor = "Autor7"}
+AC {Autor = "Autor8"}{Institucion = "Institucion5", Autor = "Autor9"}
+AC {Anio = "Anio0", Tipo = "Libro"}{Institucion = "Institucion1", Autor = "Autor4"}
+CO {Autor = "Autor0"}
+CO {Anio = "Anio0"}
+AC {Anio = "Anio4"}{Institucion = "Institucion1", Autor = "Autor6"}
+CO {Anio = "Anio9", Tipo = "Libro"}
+AG {Autor = "Autor4", Anio = "Anio3", Id = "487", Tipo = "Manual", Titulo = "Titulo1"}
+CO {Autor = "Autor1"}
+AC {Anio = "Anio7"}{Autor = "Autor5"}
+AC {Anio = "Anio9"}{Anio = "Anio2"}
+CO {Anio = "Anio4"}
+CO {Anio = "Anio9", Tipo = "Libro"}
+CO {Autor = "Autor7"}
+AG {Autor = "Autor4", Titulo = "Titulo2", Anio = "Anio6", Id = "488", Tipo = "Articulo", Conferencia = "Conferencia3"}
+AG {Autor = "Autor4", Anio = "Anio4", Id = "489", Tipo = "Manual", Titulo = "Titulo2"}
+AC {Anio = "Anio1"}{Anio = "Anio7"}
+CO {Anio = "Anio6"}
+AC {Anio = "Anio3"}{Anio = "Anio9"}
+CO {Anio = "Anio9", Tipo = "Libro"}
+AG {Autor = "Autor8", Anio = "Anio4", Id = "490", Tipo = "Manual", Titulo = "Titulo5"}
+AC {Anio = "Anio2", Tipo = "Libro"}{Anio = "Anio5"}
+AC {Autor = "Autor8"}{Anio = "Anio7"}
+CO {Autor = "Autor6"}
+AC {Anio = "Anio9", Tipo = "Libro"}{Anio = "Anio1"}
+AC {Autor = "Autor9"}{Anio = "Anio8"}
+AG {Autor = "Autor8", Titulo = "Titulo5", Anio = "Anio5", Id = "491", Tipo = "Articulo", Conferencia = "Conferencia1"}
+CO {Autor = "Autor5"}
+CO {Anio = "Anio5"}
+AC {Anio = "Anio3", Tipo = "Libro"}{Anio = "Anio4"}
+CO {Anio = "Anio5", Tipo = "Libro"}
+AC {Anio = "Anio7", Tipo = "Libro"}{Anio = "Anio7"}
+AG {Autor = "Autor9", Anio = "Anio2", Id = "492", Tipo = "Manual", Titulo = "Titulo4"}
+AC {Autor = "Autor2"}{Autor = "Autor2"}
+AG {Autor = "Autor1", Anio = "Anio0", Id = "493", Tipo = "Manual", Titulo = "Titulo7"}
+AC {Autor = "Autor9"}{Institucion = "Institucion5", Autor = "Autor0"}
+AC {Anio = "Anio4", Tipo = "Libro"}{Anio = "Anio0"}
+CO {Anio = "Anio1"}
+AG {Autor = "Autor7", Anio = "Anio1", Id = "494", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor2", Anio = "Anio9", Editor = "Editor5", Id = "495", Institucion = "Institucion7", Tipo = "Libro", Titulo = "Titulo8"}
+AC {Anio = "Anio6", Tipo = "Libro"}{Institucion = "Institucion7", Autor = "Autor5"}
+AC {Autor = "Autor9"}{Autor = "Autor7"}
+CO {Anio = "Anio6"}
+AG {Autor = "Autor8", Anio = "Anio2", Id = "496", Tipo = "Manual", Titulo = "Titulo4"}
+CO {Anio = "Anio0"}
+CO {Anio = "Anio2"}
+AG {Autor = "Autor3", Anio = "Anio5", Id = "497", Tipo = "Manual", Titulo = "Titulo3"}
+AG {Autor = "Autor2", Anio = "Anio5", Id = "498", Tipo = "Manual", Titulo = "Titulo0"}
+AG {Autor = "Autor0", Titulo = "Titulo9", Anio = "Anio4", Id = "499", Tipo = "Articulo", Conferencia = "Conferencia2"}
+AC {Autor = "Autor1"}{Autor = "Autor7"}
+AC {Anio = "Anio7", Tipo = "Libro"}{Institucion = "Institucion9", Autor = "Autor8"}
+CO {Anio = "Anio5"}
+AC {Anio = "Anio8"}{Anio = "Anio5"}
+CO {Autor = "Autor6"}
+AG {Autor = "Autor1", Anio = "Anio1", Id = "500", Tipo = "Manual", Titulo = "Titulo1"}
+CO {Autor = "Autor4"}
+CO {Anio = "Anio1"}
+CO {Anio = "Anio3"}
+AG {Autor = "Autor4", Titulo = "Titulo5", Anio = "Anio4", Id = "501", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AG {Autor = "Autor0", Anio = "Anio0", Id = "502", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor2", Anio = "Anio8", Editor = "Editor7", Id = "503", Institucion = "Institucion0", Tipo = "Libro", Titulo = "Titulo9"}
+AG {Autor = "Autor8", Anio = "Anio0", Id = "504", Tipo = "Manual", Titulo = "Titulo2"}
+CO {Anio = "Anio2"}
+AC {Anio = "Anio5"}{Autor = "Autor5"}
+AC {Anio = "Anio4", Tipo = "Libro"}{Autor = "Autor8"}
+AG {Autor = "Autor4", Titulo = "Titulo5", Anio = "Anio5", Id = "505", Tipo = "Articulo", Conferencia = "Conferencia2"}
+CO {Anio = "Anio1"}
+CO {Anio = "Anio1", Tipo = "Libro"}
+AG {Autor = "Autor9", Anio = "Anio2", Editor = "Editor0", Id = "506", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo0"}
+CO {Anio = "Anio6"}
+CO {Anio = "Anio5", Tipo = "Libro"}
+CO {Autor = "Autor9"}
+AG {Autor = "Autor0", Anio = "Anio4", Editor = "Editor1", Id = "507", Institucion = "Institucion8", Tipo = "Libro", Titulo = "Titulo4"}
+AC {Anio = "Anio8", Tipo = "Libro"}{Anio = "Anio8"}
+CO {Autor = "Autor6"}
+AC {Autor = "Autor9"}{Institucion = "Institucion2", Autor = "Autor5"}
+CO {Anio = "Anio2", Tipo = "Libro"}
+AG {Autor = "Autor2", Anio = "Anio8", Editor = "Editor6", Id = "508", Institucion = "Institucion6", Tipo = "Libro", Titulo = "Titulo5"}
+AG {Autor = "Autor1", Anio = "Anio7", Id = "509", Tipo = "Manual", Titulo = "Titulo6"}
+CO {Anio = "Anio6", Tipo = "Libro"}
+CO {Anio = "Anio6", Tipo = "Libro"}
+AC {Anio = "Anio5", Tipo = "Libro"}{Autor = "Autor9"}
+CO {Autor = "Autor5"}
+AG {Autor = "Autor5", Titulo = "Titulo9", Anio = "Anio2", Id = "510", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AG {Autor = "Autor9", Anio = "Anio4", Id = "511", Tipo = "Manual", Titulo = "Titulo9"}
+AG {Autor = "Autor8", Anio = "Anio4", Editor = "Editor7", Id = "512", Institucion = "Institucion8", Tipo = "Libro", Titulo = "Titulo7"}
+AC {Autor = "Autor2"}{Institucion = "Institucion8", Autor = "Autor7"}
+AC {Anio = "Anio9", Tipo = "Libro"}{Anio = "Anio0"}
+CO {Anio = "Anio7"}
+CO {Anio = "Anio6"}
+AG {Autor = "Autor1", Titulo = "Titulo3", Anio = "Anio7", Id = "513", Tipo = "Articulo", Conferencia = "Conferencia4"}
+AC {Autor = "Autor8"}{Autor = "Autor3"}
+AG {Autor = "Autor9", Titulo = "Titulo6", Anio = "Anio8", Id = "514", Tipo = "Articulo", Conferencia = "Conferencia6"}
+AC {Anio = "Anio3", Tipo = "Libro"}{Institucion = "Institucion8", Autor = "Autor1"}
+CO {Anio = "Anio3", Tipo = "Libro"}
+AG {Autor = "Autor2", Anio = "Anio7", Id = "515", Tipo = "Manual", Titulo = "Titulo6"}
+AC {Anio = "Anio3"}{Autor = "Autor5"}
+AC {Anio = "Anio4", Tipo = "Libro"}{Autor = "Autor2"}
+AC {Anio = "Anio6"}{Anio = "Anio8"}
+CO {Anio = "Anio9", Tipo = "Libro"}
+AC {Anio = "Anio3"}{Anio = "Anio5"}
+AG {Autor = "Autor8", Anio = "Anio3", Id = "516", Tipo = "Manual", Titulo = "Titulo9"}
+CO {Autor = "Autor9"}
+CO {Anio = "Anio6"}
+AG {Autor = "Autor0", Anio = "Anio6", Id = "517", Tipo = "Manual", Titulo = "Titulo6"}
+AC {Anio = "Anio6", Tipo = "Libro"}{Autor = "Autor6"}
+CO {Autor = "Autor1"}
+AC {Anio = "Anio7", Tipo = "Libro"}{Autor = "Autor7"}
+AC {Anio = "Anio3"}{Autor = "Autor6"}
+AG {Autor = "Autor6", Titulo = "Titulo4", Anio = "Anio2", Id = "518", Tipo = "Articulo", Conferencia = "Conferencia1"}
+AC {Anio = "Anio5", Tipo = "Libro"}{Anio = "Anio7"}
+AC {Anio = "Anio2", Tipo = "Libro"}{Institucion = "Institucion1", Autor = "Autor6"}
+AC {Anio = "Anio1"}{Institucion = "Institucion7", Autor = "Autor3"}
+CO {Anio = "Anio2", Tipo = "Libro"}
+AC {Autor = "Autor9"}{Institucion = "Institucion3", Autor = "Autor5"}
+CO {Anio = "Anio2"}
+AG {Autor = "Autor8", Titulo = "Titulo1", Anio = "Anio2", Id = "519", Tipo = "Articulo", Conferencia = "Conferencia0"}
+AC {Anio = "Anio7", Tipo = "Libro"}{Anio = "Anio1"}
+AC {Anio = "Anio2"}{Institucion = "Institucion5", Autor = "Autor4"}
+AC {Anio = "Anio7"}{Autor = "Autor9"}
+CO {Anio = "Anio8", Tipo = "Libro"}
+CO {Anio = "Anio6"}
+AC {Anio = "Anio5", Tipo = "Libro"}{Anio = "Anio3"}
+CO {Anio = "Anio6", Tipo = "Libro"}
+AC {Anio = "Anio5"}{Autor = "Autor3"}
+CO {Anio = "Anio8", Tipo = "Libro"}
+CO {Anio = "Anio8", Tipo = "Libro"}
+AG {Autor = "Autor9", Anio = "Anio6", Editor = "Editor5", Id = "520", Institucion = "Institucion2", Tipo = "Libro", Titulo = "Titulo7"}
+AG {Autor = "Autor2", Anio = "Anio0", Id = "521", Tipo = "Manual", Titulo = "Titulo2"}
